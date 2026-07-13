@@ -13,11 +13,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![UiPath](https://img.shields.io/badge/-UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
 ## 📫 Reach Me
 
 [LinkedIn](https://www.linkedin.com/in/enes-%C5%9Fenyurt-637929186/) · [Email](enes.senyurt@outlook.com)
