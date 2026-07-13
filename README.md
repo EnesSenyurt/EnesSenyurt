@@ -15,4 +15,4 @@
 
 ## 📫 Reach Me
 
-[LinkedIn](https://www.linkedin.com/in/enes-%C5%9Fenyurt-637929186/) · [Email](enes.senyurt@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/enes-%C5%9Fenyurt-637929186/) · [Email:]enes.senyurt@outlook.com
